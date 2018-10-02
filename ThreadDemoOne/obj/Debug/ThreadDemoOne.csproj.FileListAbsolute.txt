@@ -1,0 +1,7 @@
+C:\Users\Karabo.Mtimkulu\source\repos\ThreadDemoOne\ThreadDemoOne\bin\Debug\ThreadDemoOne.exe.config
+C:\Users\Karabo.Mtimkulu\source\repos\ThreadDemoOne\ThreadDemoOne\bin\Debug\ThreadDemoOne.exe
+C:\Users\Karabo.Mtimkulu\source\repos\ThreadDemoOne\ThreadDemoOne\bin\Debug\ThreadDemoOne.pdb
+C:\Users\Karabo.Mtimkulu\source\repos\ThreadDemoOne\ThreadDemoOne\obj\Debug\ThreadDemoOne.csprojAssemblyReference.cache
+C:\Users\Karabo.Mtimkulu\source\repos\ThreadDemoOne\ThreadDemoOne\obj\Debug\ThreadDemoOne.csproj.CoreCompileInputs.cache
+C:\Users\Karabo.Mtimkulu\source\repos\ThreadDemoOne\ThreadDemoOne\obj\Debug\ThreadDemoOne.exe
+C:\Users\Karabo.Mtimkulu\source\repos\ThreadDemoOne\ThreadDemoOne\obj\Debug\ThreadDemoOne.pdb
